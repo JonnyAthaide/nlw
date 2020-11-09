@@ -85,7 +85,7 @@ main h1 {
     }
 
     main h1 {
-        font-size: clamp(4vw, 8vw, 8.4vw);
+        font-size: clamp(4vw, 6vw, 8.4vw);
         font-weight: bold;
         line-height: 0.88;
 
